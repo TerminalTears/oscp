@@ -1,7 +1,7 @@
 ![Vim Logo](../../media/vimlogo.png?raw=true =250x250)
 ![Vim Logo](../../media/vimlogo.png =250x250)
 
-![Vim Logo](../../media/vimlogo.png =250)
+![Vim Logo](../../media/vimlogo.png widt=100)
 
 # Vim Cheatsheet
 
