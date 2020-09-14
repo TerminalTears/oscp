@@ -6,7 +6,7 @@
 
 * [Vim Cheatsheet](linux/vim-cheatsheet.md)
 
-## Windows
+## Win <a id="windows"></a>
 
 ---
 
