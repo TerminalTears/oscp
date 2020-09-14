@@ -1,4 +1,4 @@
-![HTB Logo](../media/htb.png)
+![HTB Logo](../media/htb.png?raw=true)
 
 
 # Vim Cheatsheet
