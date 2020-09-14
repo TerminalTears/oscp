@@ -1,6 +1,4 @@
-<center>
 <img src ="../../media/vimlogo.png" width="250">
-</center>
 
 # Vim Cheatsheet
 
@@ -40,7 +38,7 @@ The best way to learn Vim, in my opinion, is to do Vimtutor. You can enter vimtu
 
     gg - Move to first line of file
     G - Move to end of file.
-    number + G - Move to line number
+    number+G - Move to line number
 
     CTRL+O - Move back to older positions
     CTRL+I - Move to newer positions
