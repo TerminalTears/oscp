@@ -1,4 +1,4 @@
-![HTB Logo](/oscp/linux/images/htb.png)
+![HTB Logo](https://github.com/nvrmoar/oscp/linux/images/htb.png)
 
 
 
