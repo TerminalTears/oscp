@@ -1,5 +1,5 @@
 ![Vim Logo](../../media/vimlogo.png?raw=true =250x250)
-![Logo](../../media/vimlogo.png?thumbnail)
+![Logo](../../media/vimlogo.png?thumbnail width="250")
 
 ![Logo|250x250](../../media/vimlogo.png)
 
