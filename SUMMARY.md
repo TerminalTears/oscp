@@ -3,7 +3,7 @@
 * [Intro](README.md)
 
 ## Linux
-
+* [Linux](linux/)
 * [Vim Cheatsheet](linux/cheatsheets/vim-cheatsheet.md)
 
 ## Windows
