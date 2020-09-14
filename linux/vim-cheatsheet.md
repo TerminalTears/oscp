@@ -1,10 +1,10 @@
 # Vim Cheatsheet
+
 The best way to learn Vim, in my opinion, is to do Vimtutor. You can enter vimtutor on many distros of using the 'vimtutor' command, but you may have to 'apt install' it. This is a collection of the commands you will learn in Vimtutor.
 
+## Vim Cheatsheet
 
-### Vim Cheatsheet
-
-#### Modes
+### Modes
 
 ```text
     i - Insert at the cursor
@@ -23,7 +23,7 @@ The best way to learn Vim, in my opinion, is to do Vimtutor. You can enter vimtu
     v - Visual mode
 ```
 
-#### Motion
+### Motion
 
 ```text
     h - Left
@@ -42,7 +42,7 @@ The best way to learn Vim, in my opinion, is to do Vimtutor. You can enter vimtu
     CTRL+I - Move to newer positions
 ```
 
-#### Deletion
+### Deletion
 
 ```text
     x - Delete character
@@ -56,7 +56,7 @@ The best way to learn Vim, in my opinion, is to do Vimtutor. You can enter vimtu
     dd - Delete current line
 ```
 
-#### Undo
+### Undo
 
 ```text
     u - Under previous action
@@ -64,7 +64,7 @@ The best way to learn Vim, in my opinion, is to do Vimtutor. You can enter vimtu
     Ctrl+R - Undu the undo
 ```
 
-#### Quick Edits \| Change Operator
+### Quick Edits \| Change Operator
 
 ```text
     p - Paste a previously deleted stuff
@@ -76,7 +76,7 @@ The best way to learn Vim, in my opinion, is to do Vimtutor. You can enter vimtu
     R - En
 ```
 
-#### Sed functionlity
+### Sed functionlity
 
 ```text
     :s/old/new - Substitute first occurrence of 'old' with 'new'
@@ -85,7 +85,7 @@ The best way to learn Vim, in my opinion, is to do Vimtutor. You can enter vimtu
     :%s/old/new/g - Substitute all occurrences of 'old' with 'new' in the entire file. (Use gc to ask for confirmation)
 ```
 
-#### Searching a file
+### Searching a file
 
 ```text
     / - Search forward
@@ -97,7 +97,7 @@ The best way to learn Vim, in my opinion, is to do Vimtutor. You can enter vimtu
     N - Previous search result
 ```
 
-#### Command s
+### Command s
 
 ```text
     :!command - Execute external command
@@ -107,7 +107,7 @@ The best way to learn Vim, in my opinion, is to do Vimtutor. You can enter vimtu
     :r !command - Reads the output of a command and puts it below the cursor position
 ```
 
-#### Yanking
+### Yanking
 
 ```text
     y - Copies visually highlighted text
