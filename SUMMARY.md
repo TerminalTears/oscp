@@ -6,9 +6,3 @@
 
 * [Vim Cheatsheet](linux/vim-cheatsheet.md)
 
-## Win <a id="windows"></a>
-
----
-
-* [TESTER](tester.md)
-
