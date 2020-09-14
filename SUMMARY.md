@@ -8,5 +8,5 @@
 
 ## Windows
 
-* [Test](windows/test.md
-* [Test2](windows/test2.md
+* [Test](windows/test.md)
+* [Test2](windows/test2.md)
