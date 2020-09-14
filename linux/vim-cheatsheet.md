@@ -1,4 +1,4 @@
-![HTB Logo](linux/images/htb.png)
+![HTB Logo](/oscp/linux/images/htb.png)
 
 
 
