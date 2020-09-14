@@ -1,5 +1,8 @@
 ![Vim Logo](../../media/vimlogo.png?raw=true =250x250)
 ![Vim Logo](../../media/vimlogo.png =250x250)
+
+![Vim Logo](../../media/vimlogo.png =250)
+
 # Vim Cheatsheet
 
 The best way to learn Vim, in my opinion, is to do Vimtutor. You can enter vimtutor on many distros of using the 'vimtutor' command, but you may have to 'apt install' it. This is a collection of the commands you will learn in Vimtutor.
