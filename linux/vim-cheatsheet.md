@@ -1,4 +1,6 @@
-<center><img src ="../../media/vimlogo.png" width="250"></center>
+<center>
+<img src ="../../media/vimlogo.png" width="250">
+</center>
 
 # Vim Cheatsheet
 
