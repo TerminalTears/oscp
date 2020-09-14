@@ -4,9 +4,9 @@
 
 ## Linux
 
-* [Vim Cheatsheet](linux/vim-cheatsheet.md)
+* [Vim Cheatsheet](linux/cheatsheets/vim-cheatsheet.md)
 
 ## Windows
 
-* [Test](windows/test.md)
+* [Test1](windows/test.md)
 * [Test2](windows/test2.md)
