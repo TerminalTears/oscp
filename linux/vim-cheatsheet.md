@@ -1,6 +1,6 @@
 # Vim Cheatsheet
 
-The best way to learn Vim, in my opinion, is to do Vimtutor. You can enter vimtutor on many distros of using the 'vimtutor' command, but you may have to 'apt install' it. This is a collection of the commands you will learn in Vimtutor.
+One of the most straight-forward ways to dive into Vim is to use Vimtutor. Vimtutor is installed by default on many Linux distributions and can be started with the 'vimtutor' command, but you may have to 'apt install' it. Vim is very feature rich and includes some advanced functionality that is not in Vimtutor, but it covers more than enough to cover the average users needs. This is a collection of the commands you will learn in Vimtutor.
 
 ## Vim Cheatsheet
 
